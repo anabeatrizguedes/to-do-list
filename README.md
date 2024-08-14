@@ -2,14 +2,14 @@
 
 Um simples aplicativo de desktop que permite adicionar tarefas em uma lista, realizar checagem dos itens adicionados, excluir itens e armazenar os dados inseridos. O link do aplicativo pode ser acessado [aqui](https://anabeatrizguedes.github.io/to-do-list/).
 
+![image](https://raw.githubusercontent.com/anabeatrizguedes/to-do-list/main/img/app.gif)
+
 ## Funções do aplicativo 🎯
 
 * Inserção de tarefas.
 * Checagem das tarefas.
 * Exclusão de itens.
 * Armazenamento dos dados adicionados na lista.
-
-![image](https://raw.githubusercontent.com/anabeatrizguedes/to-do-list/main/img/app.gif)
 
 ## Feito com
 
