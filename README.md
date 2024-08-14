@@ -9,7 +9,7 @@ Um simples aplicativo de desktop que permite adicionar tarefas em uma lista, rea
 * Exclusão de itens.
 * Armazenamento dos dados adicionados na lista.
 
-!(https://exemplo.com/app.gif)
+![image](https://img.shields.io/badge/HTML-3498DB?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Feito com
 
